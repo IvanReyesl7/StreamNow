@@ -1,6 +1,7 @@
 # StreamNow
 
- 
+ https://www.figma.com/file/R8Sdit1e6DkjAUSHIRZmC2/Untitled?type=design&node-id=0%3A1&mode=design&t=jjbigrdmBtFI1rOj-1
+ https://www.notion.so/4821e3374d8846db8cbaec897d1dff9e?v=43a2bd00c2a54f7eaf5603deb85ca063&pvs=4
 
 ## Authors
 
